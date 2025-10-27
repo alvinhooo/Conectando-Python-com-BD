@@ -1,6 +1,3 @@
-# Alvaro Freitas Miranda: RM565364
-# João Victor Veronesi: RM565290
-
 import os
 import oracledb
 import pandas as pd
