@@ -103,8 +103,8 @@ Basta escolher a opção `[E]xcel` ou `[C]SV` ao final da consulta.
 
 ## 👨‍💻 Autores
 
-| Nome | RM | Função |
-|------|----|---------|
+| Nome | RM 
+|------|----
 | Álvaro Freitas Miranda | RM565364
 | João Victor Veronesi | RM565290 
 
