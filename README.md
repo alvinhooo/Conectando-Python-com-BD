@@ -1,6 +1,6 @@
 # 🚗 Conectando Python com Banco de Dados Oracle
 
-Projeto desenvolvido por **Álvaro Freitas Miranda (RM565364)** e **João Victor Veronesi (RM565290)**.  
+Projeto desenvolvido por **Álvaro Freitas Miranda** e **João Victor Veronesi**.  
 O sistema tem como objetivo **gerenciar o cadastro de carros** utilizando **Python** com **conexão ao banco de dados Oracle**.
 
 ---
@@ -103,10 +103,10 @@ Basta escolher a opção `[E]xcel` ou `[C]SV` ao final da consulta.
 
 ## 👨‍💻 Autores
 
-| Nome | RM 
-|------|----
-| Álvaro Freitas Miranda | RM565364
-| João Victor Veronesi | RM565290 
+| Nome
+|------
+| Álvaro Freitas Miranda
+| João Victor Veronesi
 
 ---
 
