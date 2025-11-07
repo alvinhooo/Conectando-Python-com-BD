@@ -1,6 +1,6 @@
 # 🚗 Conectando Python com Banco de Dados Oracle
 
-Projeto desenvolvido por **Álvaro Freitas Miranda** e **João Victor Veronesi**.  
+Projeto desenvolvido por **Álvaro Freitas Miranda** e **João Victor Veronesi** Com mentoria do Nosso professor de python [Edson de Oliveira](https://www.linkedin.com/in/edson-de-oliveira-338343148/).  
 O sistema tem como objetivo **gerenciar o cadastro de carros** utilizando **Python** com **conexão ao banco de dados Oracle**.
 
 ---
